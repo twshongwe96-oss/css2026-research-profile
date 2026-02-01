@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import streamlit as st
 
 # Page title
@@ -37,5 +39,4 @@ st.write("""
 
 # Contact Section
 st.header("Contact")
-st.write("Email: your-email@example.com")
-
+st.write("Email: your-twshongwe96@gmail.com")
